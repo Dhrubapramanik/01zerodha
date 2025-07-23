@@ -9,11 +9,12 @@ function Navbar() {
       <div class="container p-2">
         <a class="navbar-brand" href="#">
           <img
-            src="media/images/logo.svg"
+            src="/media/images-20250722T113637Z-1-001/images/logo.svg"
             style={{ width: "25%" }}
             alt="Logo"
           />
         </a>
+
         <button
           class="navbar-toggler"
           type="button"
@@ -28,27 +29,27 @@ function Navbar() {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <form class="d-flex" role="search">
             <ul class="navbar-nav mb-lg-0">
-              <li class="nav-item">
+              <li class="nav-item px-2">
                 <a class="nav-link active" aria-current="page" href="#">
                   Signup
                 </a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item px-2">
                 <a class="nav-link active" href="#">
                   About
                 </a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item px-2">
                 <a class="nav-link active" href="#">
                   Product
                 </a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item px-2">
                 <a class="nav-link active" href="#">
                   Pricing
                 </a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item  px-2">
                 <a class="nav-link active" href="#">
                   Support
                 </a>
