@@ -37,8 +37,8 @@ function Stats() {
                     <div className="col-6 p-5">
                         <img src="\public\media\images-20250722T113637Z-1-001\images\ecosystem.png" alt="ECOSYSTEM" style={{ width: "100%" }} />
                         <div className='text-center mt-5'>
-                            <a href="" className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                            <a href="" style={{textDecoration:"none"}}>Try Kite demo <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                            <a href="" className='mx-5' style={{textDecoration:"none"}}>Explore our products <i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                            <a href="" style={{textDecoration:"none"}}>Try Kite demo <i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </div>
